@@ -1,4 +1,7 @@
-## Hi there 👋
+## 🎓 Mahasiswa | Aspiring Web Developer
+🌱 Masih belajar & eksplorasi: PHP, HTML, C++, Java
+💻 Bikin projek kecil-kecil sambil belajar
+📍 Surabaya, Indonesia
 
 <!--
 **Devzone03/Devzone03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
